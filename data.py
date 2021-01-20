@@ -1,7 +1,7 @@
 import requests, json
 import networkx as nx
 
-token = "a5d69874936e4b180a2435852cf4916de97fb453179fe647e7b838d253d2463b8f198c0bd8aac902de2ba"
+token = ""
 
 
 def get_friends_ids(us):
